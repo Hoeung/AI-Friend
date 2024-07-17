@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace AI_Friend;
+﻿namespace AI_Friend;
 
 internal class Starter
 {

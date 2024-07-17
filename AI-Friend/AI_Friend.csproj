@@ -13,4 +13,8 @@
     <PackageReference Include="Jamesnet.Wpf" Version="1.0.0.113" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\AI_Friend.Support\AI_Friend.Support.csproj" />
+  </ItemGroup>
+
 </Project>
