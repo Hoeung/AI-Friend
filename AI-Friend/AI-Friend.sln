@@ -5,7 +5,9 @@ VisualStudioVersion = 17.10.35027.167
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AI_Friend", "AI_Friend.csproj", "{5EE0BCD3-922F-4D35-8CDE-AA01ECC4C996}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AI_Friend.Support", "..\AI_Friend.Support\AI_Friend.Support.csproj", "{17B629FA-837E-4895-A4EE-E31C2C544676}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AI_Friend.Support", "..\AI_Friend.Support\AI_Friend.Support.csproj", "{17B629FA-837E-4895-A4EE-E31C2C544676}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AI_Friend.Forms", "..\AI_Friend.Forms\AI_Friend.Forms.csproj", "{D2A86F93-60A1-4666-B662-E820D5AD1C72}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{17B629FA-837E-4895-A4EE-E31C2C544676}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{17B629FA-837E-4895-A4EE-E31C2C544676}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{17B629FA-837E-4895-A4EE-E31C2C544676}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2A86F93-60A1-4666-B662-E820D5AD1C72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2A86F93-60A1-4666-B662-E820D5AD1C72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2A86F93-60A1-4666-B662-E820D5AD1C72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2A86F93-60A1-4666-B662-E820D5AD1C72}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
